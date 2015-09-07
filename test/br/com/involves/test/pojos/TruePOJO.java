@@ -1,0 +1,29 @@
+package br.com.involves.test.pojos;
+
+public class TruePOJO {
+	
+	private int id;
+	private String name;
+
+	public TruePOJO() {
+		
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	
+}
